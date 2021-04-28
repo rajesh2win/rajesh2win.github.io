@@ -282,3 +282,5 @@ defaults:
       share: true
       related: true
       show_date: true
+
+theme: jekyll-theme-merlot
